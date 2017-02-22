@@ -1,2 +1,0 @@
-# freelancer
-Freelancer Wordpres Theme
